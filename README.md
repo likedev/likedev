@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @xiaxuxu
+- 👀 I’m interested in Java,Javascript,miniprogram
+- 🌱 I’m currently learning fucking
+- 📫 gmail: xiaxudong666@gmail.com
+- 🔎 QQ: 2190450230
+- 💎 Blog: <http://xiaxudong.com>
