@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @xiaxuxu
-- 👀 I’m interested in Java,Javascript,miniprogram
-- 🌱 I’m currently learning fucking
+- 👋 Hi, I’m @livedev
+- 👀 I’m interested in big data,gamedev.
+- 🌱 I’m currently learning blender and game development
 - 📫 gmail: xiaxudong666@gmail.com
-- 🔎 QQ: 2190450230
-- 💎 Blog: <http://xiaxudong.com>
+- 💎 Blog: <https://likedev.github.io>
